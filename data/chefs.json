@@ -1,0 +1,248 @@
+[
+  {
+    "chef_picture": "https://i.ibb.co/D74j4GX/Ahmet-Yilmaz.jpg",
+    "chef_name": "Ahmet Yilmaz",
+    "years_of_experience": 12,
+    "number_of_recipes": 60,
+    "likes": 1500,
+    "short_bio": "Ahmet Yilmaz is a renowned male chef in Turkey, specializing in traditional Turkish cuisine.",
+    "recipes": [
+      {
+        "recipe_name": "Manti",
+        "difficulty": "Intermediate",
+        "ingredients": ["Ground beef", "Onions", "Garlic", "Flour", "Yogurt"],
+        "instructions": "1. Prepare the dough. 2. Prepare the filling. 3. Shape the manti. 4. Cook the manti. 5. Serve with yogurt and sauce.",
+        "rating": 4.8
+      },
+      {
+        "recipe_name": "Iskender Kebab",
+        "difficulty": "Advanced",
+        "ingredients": [
+          "Lamb meat",
+          "Tomato sauce",
+          "Yogurt",
+          "Pita bread",
+          "Butter"
+        ],
+        "instructions": "1. Grill the lamb meat. 2. Prepare the tomato sauce. 3. Assemble the Iskender Kebab. 4. Top with yogurt and butter. 5. Serve with pita bread.",
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "Baklava",
+        "difficulty": "Intermediate",
+        "ingredients": ["Phyllo dough", "Walnuts", "Sugar", "Butter", "Honey"],
+        "instructions": "1. Prepare the filling. 2. Layer the phyllo dough. 3. Bake the Baklava. 4. Prepare the syrup. 5. Pour the syrup over the Baklava.",
+        "rating": 4.9
+      }
+    ]
+  },
+  {
+    "chef_picture": "https://i.ibb.co/dtn3XGN/Mehmet-Arslan.jpg",
+    "chef_name": "Mehmet Arslan",
+    "years_of_experience": 20,
+    "number_of_recipes": 120,
+    "likes": 2000,
+    "short_bio": "Mehmet Arslan is a highly skilled male chef with expertise in both traditional and modern Turkish cuisine.",
+    "recipes": [
+      {
+        "recipe_name": "Lahmacun",
+        "difficulty": "Intermediate",
+        "ingredients": [
+          "Ground lamb",
+          "Tomatoes",
+          "Onions",
+          "Peppers",
+          "Flatbread dough"
+        ],
+        "instructions": "1. Prepare the dough. 2. Make the topping mixture. 3. Roll out the dough and add the topping. 4. Bake the Lahmacun. 5. Serve with fresh herbs and lemon wedges.",
+        "rating": 4.7
+      },
+      {
+        "recipe_name": "Manti Soup",
+        "difficulty": "Easy",
+        "ingredients": [
+          "Manti",
+          "Beef broth",
+          "Yogurt",
+          "Mint",
+          "Red pepper flakes"
+        ],
+        "instructions": "1. Cook the manti. 2. Heat the beef broth. 3. Serve the manti in the beef broth. 4. Top with yogurt, mint, and red pepper flakes.",
+        "rating": 4.3
+      },
+      {
+        "recipe_name": "Turkish Delight",
+        "difficulty": "Advanced",
+        "ingredients": [
+          "Sugar",
+          "Water",
+          "Cornstarch",
+          "Rosewater",
+          "Pistachios"
+        ],
+        "instructions": "1. Prepare the sugar syrup. 2. Make the cornstarch mixture. 3. Cook the mixture. 4. Add flavorings and color. 5. Pour into a pan and let it set. 6. Cut into squares and coat with powdered sugar.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "chef_picture": "https://i.ibb.co/0nn20L2/Fatih-Kaya.jpg",
+    "chef_name": "Fatih Kaya",
+    "years_of_experience": 10,
+    "number_of_recipes": 80,
+    "likes": 1200,
+    "short_bio": "Fatih Kaya is a creative male chef known for his fusion dishes that blend Turkish and international flavors.",
+    "recipes": [
+      {
+        "recipe_name": "Mediterranean Grilled Chicken",
+        "difficulty": "Easy",
+        "ingredients": [
+          "Chicken breast",
+          "Lemon",
+          "Garlic",
+          "Oregano",
+          "Olive oil"
+        ],
+        "instructions": "1. Marinate the chicken. 2. Grill the chicken.",
+        "rating": 4.2
+      },
+      {
+        "recipe_name": "Hummus",
+        "difficulty": "Easy",
+        "ingredients": [
+          "Chickpeas",
+          "Tahini",
+          "Garlic",
+          "Lemon juice",
+          "Olive oil"
+        ],
+        "instructions": "1. Blend all the ingredients together. 2. Serve with pita bread or vegetables.",
+        "rating": 4.8
+      },
+      {
+        "recipe_name": "Turkish Pide",
+        "difficulty": "Intermediate",
+        "ingredients": ["Flour", "Yeast", "Water", "Ground lamb", "Tomatoes"],
+        "instructions": "1. Prepare the dough. 2. Prepare the topping mixture. 3. Shape the pide. 4. Bake the pide.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "chef_picture": "https://i.ibb.co/ZJvn2yt/Emre-Ozturk.jpg",
+    "chef_name": "Emre Ozturk",
+    "years_of_experience": 15,
+    "number_of_recipes": 90,
+    "likes": 1800,
+    "short_bio": "Emre Ozturk is an innovative male chef who combines traditional Turkish ingredients with modern techniques.",
+    "recipes": [
+      {
+        "recipe_name": "Beyti Kebab",
+        "difficulty": "Intermediate",
+        "ingredients": [
+          "Ground lamb",
+          "Garlic",
+          "Onions",
+          "Yogurt",
+          "Flatbread"
+        ],
+        "instructions": "1. Prepare the meat mixture. 2. Shape the kebabs. 3. Grill the kebabs. 4. Serve with yogurt and flatbread.",
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "Simit",
+        "difficulty": "Intermediate",
+        "ingredients": ["Flour", "Yeast", "Sugar", "Olive oil", "Water"],
+        "instructions": "1. Prepare the dough. 2. Shape the simit rings. 3. Dip in the molasses mixture. 4. Coat with sesame seeds. 5. Bake the simit.",
+        "rating": 4.7
+      },
+      {
+        "recipe_name": "Zucchini Fritters",
+        "difficulty": "Easy",
+        "ingredients": ["Zucchini", "Eggs", "Flour", "Feta cheese", "Dill"],
+        "instructions": "1. Grate the zucchini. 2. Squeeze out the excess moisture. 3. Mix all the ingredients together. 4. Fry the fritters until golden brown.",
+        "rating": 4.3
+      }
+    ]
+  },
+  {
+    "chef_picture": "https://i.ibb.co/qdzkN2y/CZN-Burak.jpg",
+    "chef_name": "CZN Burak",
+    "years_of_experience": 8,
+    "number_of_recipes": 40,
+    "likes": 800,
+    "short_bio": "CZN Burak is a talented male pastry chef known for his exquisite desserts and cakes.",
+    "recipes": [
+      {
+        "recipe_name": "Baklava",
+        "difficulty": "Intermediate",
+        "ingredients": ["Phyllo dough", "Walnuts", "Sugar", "Butter", "Honey"],
+        "instructions": "1. Prepare the filling. 2. Layer the phyllo dough. 3. Bake the Baklava. 4. Prepare the syrup. 5. Pour the syrup over the Baklava.",
+        "rating": 4.9
+      },
+      {
+        "recipe_name": "Revani",
+        "difficulty": "Intermediate",
+        "ingredients": ["Semolina", "Sugar", "Yogurt", "Eggs", "Lemon"],
+        "instructions": "1. Mix all the ingredients together. 2. Bake the Revani. 3. Prepare the syrup. 4. Pour the syrup over the Revani.",
+        "rating": 4.6
+      },
+      {
+        "recipe_name": "Turkish Delight",
+        "difficulty": "Advanced",
+        "ingredients": [
+          "Sugar",
+          "Water",
+          "Cornstarch",
+          "Rosewater",
+          "Pistachios"
+        ],
+        "instructions": "1. Prepare the sugar syrup. 2. Make the cornstarch mixture. 3. Cook the mixture. 4. Add flavorings and color. 5. Pour into a pan and let it set. 6. Cut into squares and coat with powdered sugar.",
+        "rating": 4.7
+      }
+    ]
+  },
+  {
+    "chef_picture": "https://i.ibb.co/KzdDDwM/Ali-Yildirim.jpg",
+    "chef_name": "Ali Yildirim",
+    "years_of_experience": 6,
+    "number_of_recipes": 30,
+    "likes": 600,
+    "short_bio": "Ali Yildirim is a rising star in the culinary world, known for his fresh and healthy Turkish recipes.",
+    "recipes": [
+      {
+        "recipe_name": "Cacik",
+        "difficulty": "Easy",
+        "ingredients": ["Yogurt", "Cucumber", "Garlic", "Mint", "Olive oil"],
+        "instructions": "1. Grate the cucumber. 2. Squeeze out the excess moisture. 3. Mix all the ingredients together. 4. Serve chilled.",
+        "rating": 4.4
+      },
+      {
+        "recipe_name": "Lentil Soup",
+        "difficulty": "Easy",
+        "ingredients": [
+          "Red lentils",
+          "Onions",
+          "Carrots",
+          "Tomatoes",
+          "Cumin"
+        ],
+        "instructions": "1. Saute the onions, carrots, and tomatoes. 2. Add the lentils and water. 3. Cook until the lentils are tender. 4. Blend the soup until smooth.",
+        "rating": 4.2
+      },
+      {
+        "recipe_name": "Stuffed Bell Peppers",
+        "difficulty": "Intermediate",
+        "ingredients": [
+          "Bell peppers",
+          "Ground beef",
+          "Rice",
+          "Tomato sauce",
+          "Parsley"
+        ],
+        "instructions": "1. Prepare the filling. 2. Stuff the bell peppers. 3. Prepare the tomato sauce. 4. Bake the stuffed peppers.",
+        "rating": 4.6
+      }
+    ]
+  }
+]
